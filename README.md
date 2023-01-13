@@ -8,5 +8,4 @@ This repository is part of the assignment of Applied Machine Learning Systems I 
 │   ├── controller
 │   │   ├── **/*.css
 │   ├── views
-
 │   ├── model
