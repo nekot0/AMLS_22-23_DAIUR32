@@ -52,4 +52,4 @@ This repository is part of the assignment of Applied Machine Learning Systems I 
 ```
 
 ## Requirements
-
+numpy(1.22.3), pytorch(1.13.1), scikit-learn(1.0.2), opencv(4.6.0), dlib(19.24.0), tqdm(4.64.1)
