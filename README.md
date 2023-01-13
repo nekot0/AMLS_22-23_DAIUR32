@@ -1,7 +1,7 @@
 # ELEC0134_22-23 Assignment
 
 
-## Description
+## About this repository
 This repository is part of the assignment of Applied Machine Learning Systems I (ELEC0134_22-23). "main.py" runs the models developed for each task - A1, A2, B1, and B2 - in a sequence. Hyperparameters are tuned so that each model outputs its most accurate results. To run "main.py", "Datasets" directory is needed on the same layer as A1, A2, B1, and B2 directory (see structure). 
 
 
@@ -50,6 +50,11 @@ This repository is part of the assignment of Applied Machine Learning Systems I 
 ├── main.py
 └── README.md
 ```
+
+## Descriptions
+"main.py" calls "load_celeba.py" in A1 and "load_cartoon.py" in B1 and then runs models in A1, A2, B1, and B2 directory. 
+- load_celeba.py
+- - a
 
 ## Requirements
 numpy(1.22.3), pytorch(1.13.1), scikit-learn(1.0.2), opencv(4.6.0), dlib(19.24.0), tqdm(4.64.1)
