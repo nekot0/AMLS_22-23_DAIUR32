@@ -9,15 +9,4 @@ This repository is part of the assignment of Applied Machine Learning Systems I 
 │   │   ├── **/*.css
 │   ├── views
 │   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json 
-└── .gitignore
+│   ├── index.
